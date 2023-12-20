@@ -2,6 +2,7 @@
 #include <unordered_map>
 #include <Windows.h>
 #include <string>
+#include <sstream>
 
 class WindowsMessageMap
 {
